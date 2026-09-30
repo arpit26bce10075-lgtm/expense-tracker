@@ -1,0 +1,4 @@
+expense_id,date,category,amount,description
+1,2026-09-20,Food,120.00,Lunch
+2,2026-09-21,Travel,80.00,Auto fare
+3,2026-09-22,Education,350.00,Notebook and stationery
